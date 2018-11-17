@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/DSS/static/media/Paul.8e1ac8f3.jpg"
   },
   {
-    "revision": "9194f87ad815b719443b",
-    "url": "/DSS/static/css/main.3f6420a0.chunk.css"
+    "revision": "9ac08680a0ba16db04a6",
+    "url": "/DSS/static/css/main.ae78ac04.chunk.css"
   },
   {
     "revision": "29c513706a617d3b1011",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/DSS/static/media/Daniel.7852f67d.jpg"
   },
   {
-    "revision": "9194f87ad815b719443b",
-    "url": "/DSS/static/js/main.9194f87a.chunk.js"
+    "revision": "9ac08680a0ba16db04a6",
+    "url": "/DSS/static/js/main.9ac08680.chunk.js"
   },
   {
     "revision": "abdcf4857c18ad210e7ceb7eb82d6fe0",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/DSS/static/media/wallpaper.8df0521a.jpg"
   },
   {
-    "revision": "8a86626fa641647dda2133766370d9ae",
+    "revision": "6c6cb66c4450c4e69ed1dfdcb95a82fa",
     "url": "/DSS/index.html"
   }
 ];
